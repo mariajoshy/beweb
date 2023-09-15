@@ -1,2 +1,2 @@
 # beweb
-https://github.com/mariajoshy/beweb/
+https://mariajoshy.github.io/beweb/
